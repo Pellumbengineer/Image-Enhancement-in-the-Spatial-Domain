@@ -5,7 +5,7 @@ The other image i used to apply different point processing techniques.
 
 ## This is the original image (Input).
 
-[Screenshot from 2019-05-17 17-12-29](https://user-images.githubusercontent.com/26312757/57934068-7a77b000-78c7-11e9-9df3-b7825422e274.png)                                                                                                                           
+![Screenshot from 2019-05-17 17-12-29](https://user-images.githubusercontent.com/26312757/57934068-7a77b000-78c7-11e9-9df3-b7825422e274.png)                                                                                                                           
 
 
 
